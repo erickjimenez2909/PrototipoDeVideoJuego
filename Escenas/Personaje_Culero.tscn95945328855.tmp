@@ -17,7 +17,7 @@ shape = SubResource("RectangleShape2D_lk4xd")
 scale = Vector2(1, 0.992)
 sprite_frames = ExtResource("2_igo4n")
 animation = &"running"
-frame_progress = 0.32892522
+frame_progress = 0.86716056
 
 [node name="JumpTimer" type="Timer" parent="."]
 wait_time = 0.3
